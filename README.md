@@ -1,5 +1,15 @@
-## Hi there 👋
+## ## Hi, I'm Sergey 👋
 
+I'm a Data Analyst focused on product analytics and experimentation.
+
+🔹 Python, SQL, statistics  
+🔹 A/B testing & experiment analysis  
+🔹 Data visualization & dashboards  
+🔹 Data-driven product decisions  
+
+📊 Currently building analytics projects
+
+📫 Contact: pereskokov.s.n@gmail.com
 <!--
 **pereskokov-analytics/pereskokov-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
